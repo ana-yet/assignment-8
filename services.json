@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image_link": "https://i.ibb.co.com/BKTzLQZv/judge.png",
+    "title": "Total Lawyer",
+    "total_number": "199"
+  },
+  {
+    "id": 2,
+    "image_link": "https://i.ibb.co.com/XrNWZYLD/stars.png",
+    "title": "Total Review",
+    "total_number": "467"
+  },
+  {
+    "id": 3,
+    "image_link": "https://i.ibb.co.com/1wtcPBD/judge-hammer.png",
+    "title": "Cases Initiated",
+    "total_number": "1900"
+  },
+  {
+    "id": 4,
+    "image_link": "https://i.ibb.co.com/wZdwxYJz/Group.png",
+    "title": "Total Stuffs",
+    "total_number": "300"
+  }
+]
